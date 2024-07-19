@@ -1,0 +1,23 @@
+Language:
+	JAVA
+	
+Framework:
+    Cucumber- BDD
+    Junit
+    POM
+
+Dependencies:
+	Selenium libraries
+	junit
+	cucumber libraries
+	
+Plugin
+	Maven surefire plugim
+	
+
+Reports:
+	Cucumber Report
+	Google extent report
+	
+Version Control
+	Git
